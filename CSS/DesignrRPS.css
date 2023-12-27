@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Aerial;
+  background-color: rgb(25, 25, 25);
+  color: white;
+  padding: 10px;
+}
+
+#firstP {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.result {
+  font-size: 1.6rem;
+  font-weight: bold;
+  margin-top: 30px;
+}
+
+.fist {
+  height: 50px;
+}
+
+.wide-fingers {
+  height: 50px;
+}
+
+.two-fingers {
+  height: 50px;
+}
+
+.move-button {
+  background-color: transparent;
+  border: 2px solid white;
+  border-radius: 70px;
+  height: 120px;
+  width: 120px;
+  margin: 30px 10px 20px 0;
+  cursor: pointer;
+}
+
+.moves {
+  margin-bottom: 80px;
+  margin-top: 30px;
+}
+
+.score {
+  font-size: 1.1rem;
+  margin-bottom: 10px;
+}
+
+.reset-score {
+  padding: 7px 15px;
+  font-size: 15px;
+  border: none;
+  cursor: pointer;
+}
